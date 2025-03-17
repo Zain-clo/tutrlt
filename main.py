@@ -12,4 +12,3 @@ for i in range(4):
     t.left(90)
 turtle.done()
  
-
